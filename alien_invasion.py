@@ -15,7 +15,7 @@ class AlienInvasion:
 
     def __init__(self):
         """Initialize the game, and create game resources."""
-        # Second version test
+        # Third version test
         pygame.init()
         self.settings = Settings()
 
